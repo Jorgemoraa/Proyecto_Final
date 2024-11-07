@@ -1,4 +1,4 @@
-# 📘 Proyecto Tower Diffense
+# 📘 Proyecto Tower Defense
 
 > 🚀 Proyecto creado por Jorge Moratalla Vita y Marcos Alconchel Fernández
 
@@ -6,7 +6,7 @@
 
 ## ✨ Descripción del Proyecto
 
-🌟 **Tower Diffense** es un proyecto que tiene como objetivo principal la creación de un juego en el cual el principal objetivo es evitar que los enemigos te destruyan la torre
+🌟 **Tower Defense** es un proyecto que tiene como objetivo principal la creación de un juego en el cual el principal objetivo es evitar que los enemigos te destruyan la torre
 utilizando y mejorando distintos tipos de defensas.
 
 ## 🔧 Tecnologías Utilizadas
