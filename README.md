@@ -1,23 +1,23 @@
-# 📘 Proyecto Tower Defense
+# 📘 Tower Defense Project
 
-> 🚀 Proyecto creado por Jorge Moratalla Vita y Marcos Alconchel Fernández
+> 🚀 Project created by Jorge Moratalla Vita and Marcos Alconchel Fernández
 
 ---
 
-## ✨ Descripción del Proyecto
+## ✨ Project Description
 
-🌟 **Tower Defense** es un proyecto que tiene como objetivo principal la creación de un juego en el cual el principal objetivo es evitar que los enemigos te destruyan la torre
-utilizando y mejorando distintos tipos de defensas.
+🌟 **Tower Defense** is a project aimed at creating a game where the main goal is to prevent enemies from destroying your tower by using and upgrading different types of defenses.
 
-## 🔧 Tecnologías Utilizadas
+## 🔧 Technologies Used
 
-Este proyecto fue desarrollado con las siguientes tecnologías:
+This project was developed with the following technologies:
 
-- 💻 **C#** - Para la lógica y el procesamiento
-- 🎮 **Unity** - Motor de juego para la creación de la experiencia interactiva
-- 🌐 **GitHub** - Para el control de versiones y colaboración en el desarrollo
+- 💻 **C#** - For logic and processing
+- 🎮 **Unity** - Game engine for creating the interactive experience
+- 🌐 **GitHub** - For version control and collaborative development
 
-## 🔗 Enlace al Repositorio
+## 🔗 Repository Link
 
-Puedes acceder al repositorio del proyecto en GitHub aquí: https://github.com/Jorgemoraa/Proyecto_Final.git
+You can access the project repository on GitHub here: [GitHub Repository](https://github.com/Jorgemoraa/Proyecto_Final.git)
+
 
